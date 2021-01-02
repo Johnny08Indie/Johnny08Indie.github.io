@@ -14,9 +14,11 @@ Features:
 - This game doesn’t need Wifi, no Wifi.📱
 - The hardest game in world.🏋️
 
-![screen1](Images/screen1.png)
+
 
 *PAY ATTENTION, this game is addictive.
 
 Download at playstore at :
 https://play.google.com/store/apps/details?id=com.com.JohnnyIndie.TapTheVirus.TaptheVirus
+
+![screen1](Images/screen1.png | width=100)
