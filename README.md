@@ -14,6 +14,8 @@ Features:
 - This game doesn’t need Wifi, no Wifi.📱
 - The hardest game in world.🏋️
 
+![screen1](images/Google Pixel 4 XL Screenshot 0.png)
+
 *PAY ATTENTION, this game is addictive.
 
 Download at playstore at :
