@@ -21,4 +21,4 @@ Features:
 Download at playstore at :
 https://play.google.com/store/apps/details?id=com.com.JohnnyIndie.TapTheVirus.TaptheVirus
 
-![screen1](Images/screen1.png | width=100)
+![screen1](Images/screen1.png)
