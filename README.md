@@ -14,7 +14,7 @@ Features:
 - This game doesn’t need Wifi, no Wifi.📱
 - The hardest game in world.🏋️
 
-![screen1](images/screen1.png)
+![screen1](Images/screen1.png)
 
 *PAY ATTENTION, this game is addictive.
 
